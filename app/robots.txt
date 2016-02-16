@@ -1,2 +1,2 @@
 User-agent: *
-Host:agro-wheel.ru
+Host: agro-wheel.ru
