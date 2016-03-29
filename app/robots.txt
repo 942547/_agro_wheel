@@ -1,2 +1,4 @@
 User-agent: *
+Disalow: /cgi-sys/
+Sitemap: http://agro-wheel.ru/sitemap.xml
 Host: agro-wheel.ru
