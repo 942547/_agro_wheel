@@ -8,3 +8,25 @@
     width: 100%;
 /*    overflow: hidden;*/
 }
+
+.form-call-back {
+	margin: 80px 0;
+	text-align: center;
+}
+
+.form-call-back_header-text {
+	margin-bottom: 20px;
+}
+
+.form-call-back_input {
+	display: inline-block;
+	width: 300px;
+	height: 43px;
+	margin-top: 5px;
+	font-size: 18px;
+}
+
+.form-call-back_button {
+	display: inline-block;
+	margin-left: 20px;
+}
